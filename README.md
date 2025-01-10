@@ -1,7 +1,7 @@
 # Student-Enrollment-Form
 
 
-Description:
+##Description:
 This project is a simple graphical user interface (GUI) registration form built using Tkinter, which allows users to enter personal details such as name, mobile number, email ID, course preferences, batch selection, and more. The form is designed for Besant Technologies, and the data entered can be displayed in the console upon submission.
 
 Technologies Used:
